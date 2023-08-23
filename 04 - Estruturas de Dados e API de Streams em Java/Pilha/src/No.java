@@ -1,3 +1,5 @@
+import files.No;
+
 public class No {
   private int dado;
   private No reNo = null;
@@ -24,5 +26,9 @@ public class No {
 
   public String toString() {
     return "No{" + "dado=" + dado + '}';
+  }
+
+  public String getObject() {
+    return null;
   }
 }

@@ -1,3 +1,5 @@
+import files.No;
+
 public class Pilha {
   private No refNoEntradaPilha;
 
