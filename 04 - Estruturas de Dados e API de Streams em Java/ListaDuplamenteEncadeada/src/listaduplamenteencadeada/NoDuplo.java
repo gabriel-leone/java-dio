@@ -1,3 +1,4 @@
+package listaduplamenteencadeada;
 public class NoDuplo<T> {
 
     private T conteudo;

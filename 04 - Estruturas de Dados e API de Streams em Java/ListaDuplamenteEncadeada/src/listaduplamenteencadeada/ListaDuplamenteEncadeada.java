@@ -1,3 +1,4 @@
+package listaduplamenteencadeada;
 public class ListaDuplamenteEncadeada<T> {
 
   private NoDuplo<T> primeiroNo;
