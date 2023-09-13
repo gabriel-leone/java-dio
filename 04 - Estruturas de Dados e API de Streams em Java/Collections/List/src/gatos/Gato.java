@@ -1,4 +1,4 @@
-package list;
+package gatos;
 
 public class Gato implements Comparable<Gato> {
   private String nome;

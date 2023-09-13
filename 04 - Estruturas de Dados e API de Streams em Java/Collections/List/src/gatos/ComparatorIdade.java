@@ -1,4 +1,4 @@
-package list;
+package gatos;
 
 import java.util.Comparator;
 
