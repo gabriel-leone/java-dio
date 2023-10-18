@@ -8,7 +8,7 @@ public class Main {
     minhaPilha.push(new No(1));
     minhaPilha.push(new No(2));
     minhaPilha.push(new No(3));
-    minhaPilha.push(new No(4));
+    minhaPilha.push(new No(28));
     minhaPilha.push(new No(5));
     minhaPilha.push(new No(6));
 
