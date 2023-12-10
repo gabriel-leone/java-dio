@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/03 - Programação Orientada a Objetos em Java.iml" filepath="$PROJECT_DIR$/.idea/03 - Programação Orientada a Objetos em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escola/Escola.iml" filepath="$PROJECT_DIR$/Escola/Escola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escritorio/Escritorio.iml" filepath="$PROJECT_DIR$/Escritorio/Escritorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estados/Estados.iml" filepath="$PROJECT_DIR$/Estados/Estados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IPhone/IPhone.iml" filepath="$PROJECT_DIR$/IPhone/IPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mensageiro/Mensageiro.iml" filepath="$PROJECT_DIR$/Mensageiro/Mensageiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Pessoa/Pessoa.iml" />
+    </modules>
+  </component>
+</project>
